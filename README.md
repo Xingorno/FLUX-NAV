@@ -42,13 +42,14 @@ a { color: #00bfff; }
 
 ## FLUX-NAV system
 
-### System Overview
+### Radilucent Field Generator & Our Mounting Frame
 <p align="left">
   <img src="https://img.shields.io/badge/Related work:-red" alt="Related links">
 <a href="https://ieeexplore.ieee.org/abstract/document/11119446" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/IEEE TBME-FLUX&ndash;NAV System-green" alt="System">
 </a>
 </p>
+
 
 <p align="justify">
   In our work, we employed a magnetic tracking system, featuring a prototype radiolucent FG (TTFG45-55T) (<a href="https://www.ndigital.com/" target="_blank" rel="noopener noreferrer">Northern Digital Inc.</a>, Ontario, Canada). The unique construction with radiolucent materials results in a reduction of metal-induced imaging artifacts in X-ray radiographs when placed under the path of the X-ray beam compared to other conventional field generators. The radiolucent FG prototype also has a thinner profile than the window FG, and the form factor of a tabletop design enables easy integration with the surgical bed, as shown in Figure 2. 
