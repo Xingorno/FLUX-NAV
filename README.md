@@ -130,7 +130,7 @@ The FLUX-NAV system also supports 3D navigation, as demonstrated in the followin
 </p>
 
 <div align="center">
-  <img src="Figs/Xray_decomposition.gif" alt="FLUX-NAV image decomposition", width="70%">
+  <img src="Figs/xray_decomposition.gif" alt="FLUX-NAV image decomposition", width="60%">
   <br>
   <a align="justify">Figure 4. X-ray/Fluoroscopy image decomposition. </a>
 </div>
