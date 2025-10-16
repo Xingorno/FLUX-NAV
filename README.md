@@ -42,7 +42,7 @@ a { color: #00bfff; }
 
 ## FLUX-NAV system
 
-### Radilucent Field Generator & Our Mounting Frame
+### Radilucent field generator & our mounting frame
 <p align="left">
   <img src="https://img.shields.io/badge/Related work:-red" alt="Related links">
 <a href="https://ieeexplore.ieee.org/abstract/document/11119446" target="_blank" rel="noopener noreferrer">
@@ -60,7 +60,8 @@ a { color: #00bfff; }
   <a align="justify">Figure 2. Comparison of the window FG (A) with the radiolucent FG prototype (B) and the FG mounting frame (C). The top layer of the FG mounting frame comprises an acrylic plate, and the bottom layer houses the radiolucent FG prototype. Fiducials are attached to the downside of each layer</a>
 </div>
 
-<p align=""justify">Software</p>
+### System setup
+
 
 ### 2D FLUX-NAV
 
