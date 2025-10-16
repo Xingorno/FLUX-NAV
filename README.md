@@ -64,7 +64,7 @@ a { color: #00bfff; }
 Figure 3 shows the setup of our FLUX-NAV system. The FG mounting frame is placed on the surgical bed without interrupting the clinical workflow. 
 <br>
 <div align="center">
-  <img src="Figs/system_setup.png" alt="FLUX-NAV system", width="80%">
+  <img src="Figs/system_setup.png" alt="FLUX-NAV system", width="70%">
   <br>
   <a align="justify">Figure 3. FLUX-NAV system setup and coordinate frames for 2D and 3D navigation. </a>
 </div>
