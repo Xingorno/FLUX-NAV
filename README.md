@@ -105,7 +105,7 @@ Figure 3 shows the setup of our FLUX-NAV system. The FG mounting frame is placed
   </tr>
 </table>
 
-### 3D FLUX-NAV
+### 3D FLUX-NAV: 3D Navigation
 <p align="justify">
 The FLUX-NAV system also supports 3D navigation, as demonstrated in the following video. An endoleak phantom was used to perform three needle/instrument insertions. To validate the navigation accuracy, a post-insertion CT scan was acquired and compared with the corresponding magnetically tracked needle positions.
 </p>
