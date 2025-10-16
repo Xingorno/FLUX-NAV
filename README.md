@@ -1,13 +1,12 @@
 
 
-<!-- <style>
+<style>
 body,.markdown-body, table, td, tr{
   background-color: #000;
   color: #eee;
 }
 a { color: #00bfff; }
-</style> -->
-
+</style>
 
 <div align="center">
   <h1><span style="color:#00b050;">FLUX-NAV</span>: Seamless Integration of Magnetic Tracking (<span style="color:#00b050;">FLUX</span>) into <span style="color:#00b050;">FL</span>uoroscopy <span style="color:#00b050;">NAV</span>igation </h1>
