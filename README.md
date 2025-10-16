@@ -47,6 +47,12 @@ a { color: #00bfff; }
 ### 3D FLUX-NAV
 
 ## Improved Image Quality: X-ray/Fluoroscopy decomposition
+<p align="left">
+  <img src="https://img.shields.io/badge/Related work:-red" alt="Related links">
+<a href="https://link.springer.com/article/10.1007/s11548-023-02958-3" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Publication-Xray/Fluoroscopy Decomposition-green" alt="Fluoroscopy Decomposition">
+</a>
+</p>
 
 ## Reduced Prolonged Radation Exposure: Virtual fluoroscopy
 <p align="left">
