@@ -70,7 +70,31 @@ Figure 3 shows the setup of our FLUX-NAV system. The FG mounting frame is placed
 </div>
 
 
-### 2D FLUX-NAV
+### 2D FLUX-NAV: Virtual augmentation on 2D fluoroscopy
+<p align="justify">The virtual instrument roadmap provides real-time pose information of the surgical instrument on static fluoroscopic images, while reducing continuous radiation exposure. In 2D FLUX-NAV, the tracked instrument tip is virtually augmented on 2D fluoroscopy images. The following videos showed the tracking accuracy of the surgical instrument at anterior-posterior(AP), left-anterior-oblique (LAO) 10 degrees and right-anterior-oblique (RAO) 10 degrees, respectively.</p>
+<br>
+<table align="center" border="0" cellspacing="0" cellpadding="0" style="border:none !important; border-collapse:collapse !important; border-spacing:0 !important; border-top:0 !important; border-bottom:0 !important;">
+  <tr>
+    <td align="center" width="50%" style="border:none !important; padding:0 !important;">
+      <a href="https://www.youtube.com/watch?v=rgaihhQIr80" target="_blank" rel="noopener noreferrer">
+        <img src="Figs/VA_AP.png" 
+             alt="FLUX-NAV: VA-AP" 
+             width="90%">
+      </a>
+      <br>
+      <a>🎬 3DLIVUS featured on CTV News (Jan 27, 2023)</a>
+    </td>
+    <td align="center" width="50%" style="border:none !important; padding:0 !important;">
+      <a href="https://youtu.be/hxs5y-deY70" target="_blank" rel="noopener noreferrer">
+        <img src="figs/.png" 
+             alt="Schulich School - 3DLIVUS Demonstration" 
+             width="90%">
+      </a>
+      <br>
+      <a>🎬 Demonstration by Schulich School of Medicine & Dentistry </a>
+    </td>
+  </tr>
+</table>
 
 ### 3D FLUX-NAV
 
