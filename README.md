@@ -76,22 +76,31 @@ Figure 3 shows the setup of our FLUX-NAV system. The FG mounting frame is placed
 <table align="center" border="0" cellspacing="0" cellpadding="0" style="border:none !important; border-collapse:collapse !important; border-spacing:0 !important; border-top:0 !important; border-bottom:0 !important;">
   <tr>
     <td align="center" width="50%" style="border:none !important; padding:0 !important;">
-      <a href="https://www.youtube.com/watch?v=rgaihhQIr80" target="_blank" rel="noopener noreferrer">
-        <img src="Figs/VA_AP.png" 
+      <a href="https://youtu.be/9kBgy1JRC_E" target="_blank" rel="noopener noreferrer">
+        <img src="Figs/VA_AP_v.png" 
              alt="FLUX-NAV: VA-AP" 
              width="90%">
       </a>
       <br>
-      <a>🎬 3DLIVUS featured on CTV News (Jan 27, 2023)</a>
+      <a>🎬 FLUX-NAV: Virtual augmentation-AP</a>
     </td>
     <td align="center" width="50%" style="border:none !important; padding:0 !important;">
-      <a href="https://youtu.be/hxs5y-deY70" target="_blank" rel="noopener noreferrer">
-        <img src="figs/.png" 
-             alt="Schulich School - 3DLIVUS Demonstration" 
+      <a href="https://youtu.be/EFStm17kT54" target="_blank" rel="noopener noreferrer">
+        <img src="figs/VA_LAO_v.png" 
+             alt="FLUX-NAV: VA-LAO" 
              width="90%">
       </a>
       <br>
-      <a>🎬 Demonstration by Schulich School of Medicine & Dentistry </a>
+      <a>🎬 FLUX-NAV: Virtual augmentation-LAO</a>
+    </td>
+    <td align="center" width="50%" style="border:none !important; padding:0 !important;">
+      <a href="https://youtu.be/_9EWQqhZJI4" target="_blank" rel="noopener noreferrer">
+        <img src="figs/VA+_RAO_v.png" 
+             alt="FLUX-NAV: VA-RAO" 
+             width="90%">
+      </a>
+      <br>
+      <a>🎬 FLUX-NAV: Virtual augmentation-RAO</a>
     </td>
   </tr>
 </table>
