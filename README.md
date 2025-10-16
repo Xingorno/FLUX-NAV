@@ -129,6 +129,13 @@ The FLUX-NAV system also supports 3D navigation, as demonstrated in the followin
 </a>
 </p>
 
+<div align="center">
+  <img src="Figs/Xray_decomposition.gif" alt="FLUX-NAV image decomposition", width="70%">
+  <br>
+  <a align="justify">Figure 4. X-ray/Fluoroscopy image decomposition. </a>
+</div>
+
+
 ## Project 2: Reduced Prolonged Radiation Exposure: Virtual fluoroscopy
 <p align="left">
   <img src="https://img.shields.io/badge/Related work:-red" alt="Related links">
