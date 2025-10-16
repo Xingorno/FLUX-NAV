@@ -9,7 +9,6 @@ a { color: #00bfff; }
 </style>
 
 
-
 <div align="center">
   <h1>FLUX-NAV: Seamless Integration of Magnetic Tracking (FLUX) into <strong>F</strong>luoroscopy <strong>NAV</strong>igation </h1>
 <p align="center">
