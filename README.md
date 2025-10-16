@@ -1,12 +1,12 @@
 
 
-<style>
+<!-- <style>
 body,.markdown-body, table, td, tr{
   background-color: #000;
   color: #eee;
 }
 a { color: #00bfff; }
-</style>
+</style> -->
 
 
 <div align="center">
