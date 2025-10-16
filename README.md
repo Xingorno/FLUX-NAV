@@ -20,7 +20,7 @@ a { color: #00bfff; }
   Terry M. Peters, PhD; &nbsp; 
 </a>
 <a href="https://www.schulich.uwo.ca/medimaging//people/bios/faculty/derek_cool.html" target="_blank" rel="noopener noreferrer">
-  Elvis C.S. Chen, PhD; 
+  Elvis C.S. Chen, PhD 
 </a> 
 
 </p>
