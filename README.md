@@ -40,7 +40,7 @@ a { color: #00bfff; }
 <p align="left">
   <img src="https://img.shields.io/badge/Related work:-red" alt="Related links">
 <a href="https://ieeexplore.ieee.org/abstract/document/11119446" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/IEEE TBME-FLUX&ndash;NAV-green" alt="System">
+  <img src="https://img.shields.io/badge/IEEE TBME-FLUX&ndash;NAV System-green" alt="System">
 </a>
 </p>
 
