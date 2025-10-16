@@ -50,7 +50,14 @@ a { color: #00bfff; }
 </a>
 </p>
 
-<p align="justify">Hardware</p>
+<p align="justify">
+  In our work, we employed a magnetic tracking system, featuring a prototype radiolucent FG (TTFG45-55T) (<a href="https://www.ndigital.com/" target="_blank" rel="noopener noreferrer">Northern Digital Inc.</a>, Ontario, Canada). The unique construction with radiolucent materials results in a reduction of metal-induced imaging artifacts in X-ray radiographs when placed under the path of the X-ray beam compared to other conventional field generators. The radiolucent FG prototype also has a thinner profile than the window FG, and the form factor of a tabletop design enables easy integration with the surgical bed, as shown in Figure 2. 
+</p>
+<div align="center">
+  <img src="Figs/RLFG_hardware.png" alt="RLFG", width="80%">
+  <br>
+  <a align="justify">Figure 2. Comparison of the window FG (A) with the radiolucent FG prototype (B) and the FG mounting frame (C). The top layer of the FG mounting frame comprises an acrylic plate, and the bottom layer houses the radiolucent FG prototype. Fiducials are attached to the downside of each layer</a>
+</div>
 
 <p align=""justify">Software</p>
 
