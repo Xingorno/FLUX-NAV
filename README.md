@@ -48,7 +48,7 @@ a { color: #00bfff; }
 
 ### Global rigid fluoro-CT registration
 
-### Local rigid Fluoro-CT registration
+### Local rigid Fluoro-CT registration (Ongoing)
 
 ## Clinical applications
 
@@ -56,7 +56,7 @@ a { color: #00bfff; }
 
 ### Spine Tumour Ablation (Ongoing)
 
-### ...
+### ... (Ongoing)
 
 
 
