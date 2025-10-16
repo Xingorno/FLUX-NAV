@@ -86,7 +86,7 @@ Figure 3 shows the setup of our FLUX-NAV system. The FG mounting frame is placed
     </td>
     <td align="center" width="50%" style="border:none !important; padding:0 !important;">
       <a href="https://youtu.be/EFStm17kT54" target="_blank" rel="noopener noreferrer">
-        <img src="figs/VA_LAO_v.png" 
+        <img src="Figs/VA_LAO_v.png" 
              alt="FLUX-NAV: VA-LAO" 
              width="90%">
       </a>
@@ -95,7 +95,7 @@ Figure 3 shows the setup of our FLUX-NAV system. The FG mounting frame is placed
     </td>
     <td align="center" width="50%" style="border:none !important; padding:0 !important;">
       <a href="https://youtu.be/_9EWQqhZJI4" target="_blank" rel="noopener noreferrer">
-        <img src="figs/VA+_RAO_v.png" 
+        <img src="Figs/VA_RAO_v.png" 
              alt="FLUX-NAV: VA-RAO" 
              width="90%">
       </a>
