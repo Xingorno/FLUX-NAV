@@ -106,6 +106,18 @@ Figure 3 shows the setup of our FLUX-NAV system. The FG mounting frame is placed
 </table>
 
 ### 3D FLUX-NAV
+<p align="justify">
+The FLUX-NAV system also supports 3D navigation, as demonstrated in the following video. An endoleak phantom was used to perform three needle/instrument insertions. To validate the navigation accuracy, a post-insertion CT scan was acquired and compared with the corresponding magnetically tracked needle positions.
+</p>
+<p align="center">
+      <a href="https://youtu.be/E-fTIGBpBw4" target="_blank" rel="noopener noreferrer">
+        <img src="Figs/VA_3D_phantom_v.png" 
+             alt="FLUX-NAV: VA-phantom insertion" 
+             width="70%">
+      </a>
+      <br>
+      <a>🎬 FLUX-NAV: Virtual augmentation on phantom insertion</a>
+</p>
 
 ## Improved Image Quality: X-ray/Fluoroscopy decomposition
 <p align="left">
@@ -115,7 +127,7 @@ Figure 3 shows the setup of our FLUX-NAV system. The FG mounting frame is placed
 </a>
 </p>
 
-## Reduced Prolonged Radation Exposure: Virtual fluoroscopy
+## Reduced Prolonged Radiation Exposure: Virtual fluoroscopy
 <p align="left">
   <img src="https://img.shields.io/badge/Related work:-red" alt="Related links">
 <a href="https://link.springer.com/article/10.1007/s11548-025-03395-0" target="_blank" rel="noopener noreferrer">
