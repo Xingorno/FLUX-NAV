@@ -57,7 +57,7 @@ a { color: #00bfff; }
 </p>
 
 <div align="center">
-  <img src="Figs/RLFG_hardware.png" alt="RLFG", width="80%">
+  <img src="Figs/RLFG_hardware.png" alt="RLFG" width="80%">
   <br>
   <a>Figure 2. Comparison of the window FG (A) with the radiolucent FG prototype (B) and the FG mounting frame (C). The top layer of the FG mounting frame comprises an acrylic plate, and the bottom layer houses the radiolucent FG prototype. Fiducials are attached to the downside of each layer.</a>
 </div>
@@ -67,7 +67,7 @@ Figure 3 shows the setup of our FLUX-NAV system. The FG mounting frame is placed
 <br>
 
 <div align="center">
-  <img src="Figs/system_setup.png" alt="FLUX-NAV system", width="70%">
+  <img src="Figs/system_setup.png" alt="FLUX-NAV system" width="70%">
   <br>
   <a>Figure 3. FLUX-NAV system setup and coordinate frames for 2D and 3D navigation. </a>
 </div>
@@ -133,7 +133,7 @@ The FLUX-NAV system also supports 3D navigation, as demonstrated in the followin
 </p>
 
 <div align="center">
-  <img src="Figs/xray_decomposition.gif" alt="FLUX-NAV image decomposition", width="60%">
+  <img src="Figs/xray_decomposition.gif" alt="FLUX-NAV image decomposition" width="60%">
   <br>
   <a>Figure 4. X-ray/Fluoroscopy image decomposition. </a>
 </div>
