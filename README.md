@@ -46,7 +46,7 @@ a { color: #00bfff; }
 
 <p align="justify">Hardware</p>
 
-<p align=""justify>Software</p>
+<p align=""justify">Software</p>
 
 ### 2D FLUX-NAV
 
