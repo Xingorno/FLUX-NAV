@@ -34,6 +34,31 @@ a { color: #00bfff; }
   Xray fluoroscopy continues to be the predominant modality for intra-operative image guidance, ubiquitously employed across various domains including cardiovascular, endovascular, orthopedic, and neuro-interventions, as well as in pain management and biopsies. The 2D projective nature of X-ray radiography presents significant limitations in fluoroscopy-guided interventions, particularly the loss of depth perception and prolonged radiation exposure. Integrating magnetic trackers into these workflows is promising; however, it remains challenging and under-explored in current research and practice. To address this, we employed a radiolucent magnetic field generator (FG) prototype as a foundational step towards seamless magnetic tracking (MT) integration. Overall, we demonstrated the efficacy and clinical applicability of the MT-assisted approach. To the best of our knowledge, this is the first study to integrate a radiolucent FG into a fluoroscopy-guided workflow.
 </p>
 
+## FLUX-NAV system
+
+### 2D FLUX-NAV
+
+### 3D FLUX-NAV
+
+## Improved Image Quality: X-ray/Fluoroscopy decomposition
+
+## Reduced Prolonged Radation Exposure: Virtual fluoroscopy
+
+## Improved 3D Navigation: Fluoro-CT registration
+
+### Global rigid fluoro-CT registration
+
+### Local rigid Fluoro-CT registration
+
+## Clinical applications
+
+### Endoleak Repair Procedure
+
+### Spine Tumour Ablation (Ongoing)
+
+### ...
+
+
 
 
 
