@@ -29,7 +29,9 @@ a { color: #00bfff; }
 </a>
 </div>
 
-## Introduction
+## FLUX-NAV system
+
+## Overview
 <p align="justify">
   X-ray fluoroscopy continues to be the predominant modality for intra-operative image guidance, ubiquitously employed across various domains including cardiovascular, endovascular, orthopedic, and neuro-interventions, as well as in pain management and biopsies. The 2D projective nature of X-ray radiography presents significant limitations in fluoroscopy-guided interventions, particularly the loss of depth perception and prolonged radiation exposure. Integrating magnetic trackers into these workflows is promising; however, it remains challenging and under-explored in current research and practice. To address this, we employed a radiolucent magnetic field generator (FG) prototype as a foundational step towards seamless magnetic tracking (MT) integration, see Figure 1. Overall, we demonstrated the efficacy and clinical applicability of the MT-assisted approach. To the best of our knowledge, this is the first study to integrate a radiolucent FG into a fluoroscopy-guided workflow.
 </p>
@@ -40,7 +42,7 @@ a { color: #00bfff; }
   <a>Figure 1. Comparison of our proposed MT-assisted guidance system with the conventional one.</a>
 </div>
 
-## FLUX-NAV system
+
 
 ### Radilucent field generator & our mounting frame
 <p align="left">
@@ -119,7 +121,7 @@ The FLUX-NAV system also supports 3D navigation, as demonstrated in the followin
       <a>🎬 FLUX-NAV: Virtual augmentation on phantom insertion</a>
 </p>
 
-## Improved Image Quality: X-ray/Fluoroscopy decomposition
+## Project 1: Improved Image Quality: X-ray/Fluoroscopy decomposition
 <p align="left">
   <img src="https://img.shields.io/badge/Related work:-red" alt="Related links">
 <a href="https://link.springer.com/article/10.1007/s11548-023-02958-3" target="_blank" rel="noopener noreferrer">
@@ -127,7 +129,7 @@ The FLUX-NAV system also supports 3D navigation, as demonstrated in the followin
 </a>
 </p>
 
-## Reduced Prolonged Radiation Exposure: Virtual fluoroscopy
+## Project 2: Reduced Prolonged Radiation Exposure: Virtual fluoroscopy
 <p align="left">
   <img src="https://img.shields.io/badge/Related work:-red" alt="Related links">
 <a href="https://link.springer.com/article/10.1007/s11548-025-03395-0" target="_blank" rel="noopener noreferrer">
@@ -135,7 +137,7 @@ The FLUX-NAV system also supports 3D navigation, as demonstrated in the followin
 </a>
 </p>
 
-## Improved 3D Navigation: Fluoro-CT registration
+## Project 3: Improved 3D Navigation: Fluoro-CT registration
 
 
 ### Global rigid fluoro-CT registration
@@ -148,7 +150,7 @@ The FLUX-NAV system also supports 3D navigation, as demonstrated in the followin
 
 ### Local rigid Fluoro-CT registration (Ongoing)
 
-## Clinical applications
+## Project 4:  Clinical applications
 
 ### Endoleak Repair Procedure
 
