@@ -10,7 +10,7 @@ a { color: #00bfff; }
 
 
 <div align="center">
-  <h1>FLUX-NAV: Seamless Integration of Magnetic Tracking (<span style="color:#00b050;">FLUX</span>) into <span style="color:#00b050;">F</span>luoroscopy <span style="color:#00b050;">NAV</span>igation </h1>
+  <h1><span style="color:#00b050;">FLUX-NAV</span>: Seamless Integration of Magnetic Tracking (<span style="color:#00b050;">FLUX</span>) into <span style="color:#00b050;">F</span>luoroscopy <span style="color:#00b050;">NAV</span>igation </h1>
 <p align="center">
 <a href="https://scholar.google.com/citations?user=pPSHM1kAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">
   Shuwei Xing, PhD;&nbsp; 
