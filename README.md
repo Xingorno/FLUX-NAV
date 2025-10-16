@@ -37,6 +37,12 @@ a { color: #00bfff; }
 ## FLUX-NAV system
 
 ### System Overview
+<p align="left">
+  <img src="https://img.shields.io/badge/Related work:-red" alt="Related links">
+<a href="https://ieeexplore.ieee.org/abstract/document/11119446" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/IEEE TBME-FLUX&ndash;NAV-green" alt="System">
+</a>
+</p>
 
 <p align="justify">Hardware</p>
 
@@ -68,8 +74,8 @@ a { color: #00bfff; }
 ### Global rigid fluoro-CT registration
 <p align="left">
   <img src="https://img.shields.io/badge/Related work:-red" alt="Related links">
-<a href="https://arxiv.org/abs/2411.07495" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/arXiv-Fluoro&ndash;CT registration-green" alt="Registration">
+<a href="https://ieeexplore.ieee.org/abstract/document/11119446" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/IEEE TBME-Fluoro&ndash;CT registration-green" alt="Registration">
 </a>
 </p>
 
