@@ -49,10 +49,23 @@ a { color: #00bfff; }
 ## Improved Image Quality: X-ray/Fluoroscopy decomposition
 
 ## Reduced Prolonged Radation Exposure: Virtual fluoroscopy
+<p align="left">
+  <img src="https://img.shields.io/badge/Related work:-red" alt="Related links">
+<a href="https://link.springer.com/article/10.1007/s11548-025-03395-0" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Publication-Virtual Fluoroscopy-green" alt="Virtual Fluoroscopy">
+</a>
+</p>
 
 ## Improved 3D Navigation: Fluoro-CT registration
 
+
 ### Global rigid fluoro-CT registration
+<p align="left">
+  <img src="https://img.shields.io/badge/Related work:-red" alt="Related links">
+<a href="https://arxiv.org/abs/2411.07495" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/arXiv-Fluoro&ndash;CT registration-green" alt="Registration">
+</a>
+</p>
 
 ### Local rigid Fluoro-CT registration (Ongoing)
 
