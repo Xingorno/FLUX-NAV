@@ -75,7 +75,7 @@ Figure 3 shows the setup of our FLUX-NAV system. The FG mounting frame is placed
 <br>
 <table align="center" border="0" cellspacing="0" cellpadding="0" style="border:none !important; border-collapse:collapse !important; border-spacing:0 !important; border-top:0 !important; border-bottom:0 !important;">
   <tr>
-    <td align="center" width="50%" style="border:none !important; padding:0 !important;">
+    <td align="center" width="30%" style="border:none !important; padding:0 !important;">
       <a href="https://youtu.be/9kBgy1JRC_E" target="_blank" rel="noopener noreferrer">
         <img src="Figs/VA_AP_v.png" 
              alt="FLUX-NAV: VA-AP" 
@@ -84,7 +84,7 @@ Figure 3 shows the setup of our FLUX-NAV system. The FG mounting frame is placed
       <br>
       <a>🎬 FLUX-NAV: Virtual augmentation-AP</a>
     </td>
-    <td align="center" width="50%" style="border:none !important; padding:0 !important;">
+    <td align="center" width="30%" style="border:none !important; padding:0 !important;">
       <a href="https://youtu.be/EFStm17kT54" target="_blank" rel="noopener noreferrer">
         <img src="Figs/VA_LAO_v.png" 
              alt="FLUX-NAV: VA-LAO" 
@@ -93,7 +93,7 @@ Figure 3 shows the setup of our FLUX-NAV system. The FG mounting frame is placed
       <br>
       <a>🎬 FLUX-NAV: Virtual augmentation-LAO</a>
     </td>
-    <td align="center" width="50%" style="border:none !important; padding:0 !important;">
+    <td align="center" width="30%" style="border:none !important; padding:0 !important;">
       <a href="https://youtu.be/_9EWQqhZJI4" target="_blank" rel="noopener noreferrer">
         <img src="Figs/VA_RAO_v.png" 
              alt="FLUX-NAV: VA-RAO" 
