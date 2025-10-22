@@ -14,7 +14,9 @@ a { color: #00bfff; }
 <a href="https://scholar.google.com/citations?user=pPSHM1kAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">
   Shuwei Xing, PhD;&nbsp; 
 </a>
-
+<a href="https://scholar.google.com/citations?user=UcCOMvIAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">
+  Wenyao Xia, PhD;&nbsp; 
+</a>
 <a href="https://www.robarts.ca/research/scientists/peters_terry.html" target="_blank" rel="noopener noreferrer">
   Terry M. Peters, PhD; &nbsp; 
 </a>
