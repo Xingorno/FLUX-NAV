@@ -37,6 +37,34 @@ a { color: #00bfff; }
   X-ray fluoroscopy continues to be the predominant modality for intra-operative image guidance, ubiquitously employed across various domains including cardiovascular, endovascular, orthopedic, and neuro-interventions, as well as in pain management and biopsies. The 2D projective nature of X-ray radiography presents significant limitations in fluoroscopy-guided interventions, particularly the loss of depth perception and prolonged radiation exposure. Integrating magnetic trackers into these workflows is promising; however, it remains challenging and under-explored in current research and practice. To address this, we employed a radiolucent magnetic field generator (FG) prototype as a foundational step towards seamless magnetic tracking (MT) integration, see Figure 1. Overall, we demonstrated the efficacy and clinical applicability of the MT-assisted approach. To the best of our knowledge, this is the first study to integrate a radiolucent FG into a fluoroscopy-guided workflow.
 </p>
 
+<table align="center" border="0" cellspacing="0" cellpadding="0" style="border:none !important; border-collapse:collapse !important; border-spacing:0 !important; border-top:0 !important; border-bottom:0 !important;">
+  <tr>
+    <td align="center" width="33%" style="border:none !important; padding:0 !important;">
+        <img src="Figs/2024_Robarts_Research_1.png" 
+             alt="Robarts_comm_1" 
+             width="90%">
+      <br>
+      <a>Figure 1. FLUX-NAV system setup.</a>
+    </td>
+    <td align="center" width="33%" style="border:none !important; padding:0 !important;">
+        <img src="Figs/2024_Robarts_Research_2.png" 
+             alt="FLUX-NAV: Instrument insertion" 
+             width="90%">
+      <br>
+      <a>Figure 2. FLUX-NAV: Instrument insertion. </a>
+    </td>
+    <td align="center" width="33%" style="border:none !important; padding:0 !important;">
+        <img src="Figs/2024_Robarts_Research_3.png" 
+             alt="FLUX-NAV: OR collaboration" 
+             width="90%">
+      <br>
+      <a>Figure 3. FLUX-NAV: OR collaboration. </a>
+    </td>
+  </tr>
+</table>
+
+
+
 <div align="center">
   <img src="Figs/system_overview_new.png" alt="FLUX-NAV system" width="80%">
   <br>
