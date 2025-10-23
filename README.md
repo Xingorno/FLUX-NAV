@@ -89,7 +89,7 @@ a { color: #00bfff; }
 <div align="center">
   <img src="Figs/RLFG_hardware.png" alt="RLFG" width="80%">
   <br>
-  <a>Figure 4. Comparison of the window FG (A) with the radiolucent FG prototype (B) and the FG mounting frame (C). The top layer of the FG mounting frame comprises an acrylic plate, and the bottom layer houses the radiolucent FG prototype. Fiducials are attached to the downside of each layer.</a>
+  <a>Figure 3. Comparison of the window FG (A) with the radiolucent FG prototype (B) and the FG mounting frame (C). The top layer of the FG mounting frame comprises an acrylic plate, and the bottom layer houses the radiolucent FG prototype. Fiducials are attached to the downside of each layer.</a>
 </div>
 
 ### System setup
@@ -99,7 +99,7 @@ Figure 4 shows the setup of our FLUX-NAV system. The FG mounting frame is placed
 <div align="center">
   <img src="Figs/system_setup.png" alt="FLUX-NAV system" width="70%">
   <br>
-  <a>Figure 5. FLUX-NAV system setup and coordinate frames for 2D and 3D navigation. </a>
+  <a>Figure 4. FLUX-NAV system setup and coordinate frames for 2D and 3D navigation. </a>
 </div>
 
 
