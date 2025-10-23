@@ -34,7 +34,7 @@ a { color: #00bfff; }
 
 ## Overview
 <p align="justify">
-  X-ray fluoroscopy continues to be the predominant modality for intra-operative image guidance, ubiquitously employed across various domains including cardiovascular, endovascular, orthopedic, and neuro-interventions, as well as in pain management and biopsies. The 2D projective nature of X-ray radiography presents significant limitations in fluoroscopy-guided interventions, particularly the loss of depth perception and prolonged radiation exposure. Integrating magnetic trackers into these workflows is promising; however, it remains challenging and under-explored in current research and practice. To address this, we employed a radiolucent magnetic field generator (FG) prototype as a foundational step towards seamless magnetic tracking (MT) integration, see Figure 1. Overall, we demonstrated the efficacy and clinical applicability of the MT-assisted approach. To the best of our knowledge, this is the first study to integrate a radiolucent FG into a fluoroscopy-guided workflow.
+  X-ray fluoroscopy continues to be the predominant modality for intra-operative image guidance, ubiquitously employed across various domains including cardiovascular, endovascular, orthopedic, and neuro-interventions, as well as in pain management and biopsies. The 2D projective nature of X-ray radiography presents significant limitations in fluoroscopy-guided interventions, particularly the loss of depth perception and prolonged radiation exposure. Integrating magnetic trackers into these workflows is promising; however, it remains challenging and under-explored in current research and practice. To address this, we employed a radiolucent magnetic field generator (FG) prototype as a foundational step towards seamless magnetic tracking (MT) integration, see Figures 1 and 2. Overall, we demonstrated the efficacy and clinical applicability of the MT-assisted approach. To the best of our knowledge, this is the first study to integrate a radiolucent FG into a fluoroscopy-guided workflow.
 </p>
 
 <table align="center" border="0" cellspacing="0" cellpadding="0" style="border:none !important; border-collapse:collapse !important; border-spacing:0 !important; border-top:0 !important; border-bottom:0 !important;">
@@ -44,21 +44,21 @@ a { color: #00bfff; }
              alt="Robarts_comm_1" 
              width="90%">
       <br>
-      <a>Figure 1. FLUX-NAV system setup.</a>
+      <a>Figure 1a. FLUX-NAV system setup.</a>
     </td>
     <td align="center" width="33%" style="border:none !important; padding:0 !important;">
         <img src="Figs/2024_Robarts_Research_2.png" 
              alt="FLUX-NAV: Instrument insertion" 
              width="90%">
       <br>
-      <a>Figure 2. FLUX-NAV: Instrument insertion. </a>
+      <a>Figure 1b. FLUX-NAV: Instrument insertion. </a>
     </td>
     <td align="center" width="33%" style="border:none !important; padding:0 !important;">
         <img src="Figs/2024_Robarts_Research_3.png" 
              alt="FLUX-NAV: OR collaboration" 
              width="90%">
       <br>
-      <a>Figure 3. FLUX-NAV: OR collaboration. </a>
+      <a>Figure 1c. FLUX-NAV: OR collaboration. </a>
     </td>
   </tr>
 </table>
@@ -68,7 +68,7 @@ a { color: #00bfff; }
 <div align="center">
   <img src="Figs/system_overview_new.png" alt="FLUX-NAV system" width="80%">
   <br>
-  <a>Figure 1. Comparison of our proposed MT-assisted guidance system with the conventional one.</a>
+  <a>Figure 2. Comparison of our proposed MT-assisted guidance system with the conventional one.</a>
 </div>
 
 
@@ -83,23 +83,23 @@ a { color: #00bfff; }
 
 
 <p align="justify">
-  In our work, we employed a magnetic tracking system, featuring a prototype radiolucent FG (TTFG45-55T) (<a href="https://www.ndigital.com/" target="_blank" rel="noopener noreferrer">Northern Digital Inc.</a>, Ontario, Canada). The unique construction with radiolucent materials results in a reduction of metal-induced imaging artifacts in X-ray radiographs when placed under the path of the X-ray beam compared to other conventional field generators. The radiolucent FG prototype also has a thinner profile than the window FG, and the form factor of a tabletop design enables easy integration with the surgical bed, as shown in Figure 2. 
+  In our work, we employed a magnetic tracking system, featuring a prototype radiolucent FG (TTFG45-55T) (<a href="https://www.ndigital.com/" target="_blank" rel="noopener noreferrer">Northern Digital Inc.</a>, Ontario, Canada). The unique construction with radiolucent materials results in a reduction of metal-induced imaging artifacts in X-ray radiographs when placed under the path of the X-ray beam compared to other conventional field generators. The radiolucent FG prototype also has a thinner profile than the window FG, and the form factor of a tabletop design enables easy integration with the surgical bed, as shown in Figure 3. 
 </p>
 
 <div align="center">
   <img src="Figs/RLFG_hardware.png" alt="RLFG" width="80%">
   <br>
-  <a>Figure 2. Comparison of the window FG (A) with the radiolucent FG prototype (B) and the FG mounting frame (C). The top layer of the FG mounting frame comprises an acrylic plate, and the bottom layer houses the radiolucent FG prototype. Fiducials are attached to the downside of each layer.</a>
+  <a>Figure 4. Comparison of the window FG (A) with the radiolucent FG prototype (B) and the FG mounting frame (C). The top layer of the FG mounting frame comprises an acrylic plate, and the bottom layer houses the radiolucent FG prototype. Fiducials are attached to the downside of each layer.</a>
 </div>
 
 ### System setup
-Figure 3 shows the setup of our FLUX-NAV system. The FG mounting frame is placed on the surgical bed without interrupting the clinical workflow. 
+Figure 4 shows the setup of our FLUX-NAV system. The FG mounting frame is placed on the surgical bed without interrupting the clinical workflow. 
 <br>
 
 <div align="center">
   <img src="Figs/system_setup.png" alt="FLUX-NAV system" width="70%">
   <br>
-  <a>Figure 3. FLUX-NAV system setup and coordinate frames for 2D and 3D navigation. </a>
+  <a>Figure 5. FLUX-NAV system setup and coordinate frames for 2D and 3D navigation. </a>
 </div>
 
 
