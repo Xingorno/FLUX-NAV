@@ -73,7 +73,7 @@ a { color: #00bfff; }
 
 
 
-### Radilucent field generator & our mounting frame
+### Radiolucent field generator & our mounting frame
 <p align="left">
   <img src="https://img.shields.io/badge/Related work:-red" alt="Related links">
 <a href="https://ieeexplore.ieee.org/abstract/document/11119446" target="_blank" rel="noopener noreferrer">
